@@ -5,5 +5,6 @@ This depository accompanies the manuscript:
 The files in this depository can be used to replicate all the analyses and figures included in the manuscirpt.
 
 The depository includes the following files:
+
 Supplementary materials.docx - The supplementary materials associated with the manuscript
 
