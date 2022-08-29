@@ -1,6 +1,6 @@
 # PCA_critique
 This depository accompanies the manuscript:
-**Why most Principal Component Analyses (PCA) in population genetic studies are wrong**
+**Principal Component Analyses (PCA)‑based findings in population genetic studies are highly biased and must be reevaluated**
 
 Eran Elhaik
 Lund University, Department of Biology, Lund, Sweden, 22362
