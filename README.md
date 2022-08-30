@@ -39,3 +39,9 @@ The depository includes the following files:
 
 Link to the publicaiton:
 https://www.nature.com/articles/s41598-022-14395-4
+
+Supplamentary materials:
+Supplementary materials (Supplementary Information 1)
+Supplementary Texts 1-3 (Supplementary Information 2)
+Are available at the publisher's site: https://www.nature.com/articles/s41598-022-14395-4
+
