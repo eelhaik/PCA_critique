@@ -42,3 +42,5 @@ https://www.nature.com/articles/s41598-022-14395-4
 
 Supplementary materials (Supplementary Information 1) and Supplementary Texts 1-3 (Supplementary Information 2) are available at the publisher's site: https://www.nature.com/articles/s41598-022-14395-4
 
+The genomic data associated with the code can be found here:
+https://figshare.com/articles/dataset/PCA_critique_zip/21755864
